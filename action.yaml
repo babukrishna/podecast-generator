@@ -3,7 +3,7 @@ autor: "Krishna Babu"
 description: "Generate a feed for a podcast from a YAML file"
 runs:
   using: "docker"
-  iamge: "Dockerfile"
+  image: "Dockerfile"
 branding:
   icon: "git-branch"
   color: "red"
